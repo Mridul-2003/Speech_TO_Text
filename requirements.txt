@@ -1,0 +1,3 @@
+stremalit
+azure-cognitiveservices-speech
+python-dotenv
