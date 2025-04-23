@@ -1,3 +1,3 @@
-stremalit
+streamlit
 azure-cognitiveservices-speech
 python-dotenv
